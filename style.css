@@ -1,0 +1,32 @@
+
+div{
+    background-color:#f5f5ef;
+    width: 600px;
+    
+}
+table{
+    width: 550px;
+}
+
+th{
+    color: aliceblue;
+    background-color: black;
+    padding: 15px;
+    margin: 10px;
+    font-size: large;
+
+}
+td{
+    padding: 5px;
+    text-align: center;
+    margin: 15px;
+    background-color: white;
+    font-weight: bold;
+
+}
+
+.opebtn{
+    background-color: tomato;
+    font-weight: bold;
+    font-size: larger;
+}
